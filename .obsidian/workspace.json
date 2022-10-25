@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "c7c4972ceec4f24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "67406a8e4f8bbf7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59db87f6a9501d0f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18de78794822006d",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cf289f7ee63621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bfed8f749384f51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e02694c413030db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e939c203c164172",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "752ffdf8388222ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c5fada2f42813f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "033b0f18e845df0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af8c7f1fba1035d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b000fafd4fcf1d8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3396065b21e92a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "59db87f6a9501d0f",
+  "lastOpenFiles": [
+    "Закон Паркинсона.md",
+    "Закон неподдельного интереса.md",
+    "Закон Генри Лаборита.md",
+    "Закон стагнации.md",
+    "Закон Стива Тейлора.md",
+    "2022-08-26.md",
+    "API.md"
+  ]
+}
