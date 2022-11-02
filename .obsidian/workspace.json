@@ -98,7 +98,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -121,23 +121,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "59db87f6a9501d0f",
   "lastOpenFiles": [
-    "Закон Паркинсона.md",
-    "Закон неподдельного интереса.md",
+    "202211022218.md",
+    "Приоритеты.md",
+    "Оперативный мониторинг.md",
+    "Time Management.md",
+    "getting old.md",
     "Закон Генри Лаборита.md",
-    "Закон стагнации.md",
-    "Закон Стива Тейлора.md",
-    "2022-08-26.md",
-    "API.md"
+    "SLA тестирования.md",
+    "SLA.md",
+    "Метрики тестирования.md",
+    "Количество.md"
   ]
 }
