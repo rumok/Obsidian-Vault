@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e550a2b3b6d4e7d3",
+        "id": "0ac9edb96acbf46c",
         "type": "tabs",
         "children": [
           {
-            "id": "be0d0fc53f341478",
+            "id": "ada24a0bec607cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Перцептрон.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1ef870f90fe3e81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Архитектуры нейросетей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed43bd3238f1d0e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "okr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Без названия.md"
+              }
             }
           }
         ],
@@ -156,26 +138,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "4ed43bd3238f1d0e",
+  "active": "ada24a0bec607cfa",
   "lastOpenFiles": [
+    "Тестинг.md",
+    "GIT.md",
+    "Ревью.md",
     "Как извлекать полезный опыт из ошибок.md",
-    "Критика.md",
-    "Конструктивная критика.md",
-    "Архитектуры нейросетей.md",
-    "Перцептрон.md",
-    "Цели.md",
-    "okr.md",
-    "Untitled.md",
-    "Почему не все ошибки надо исправлять, чтобы сделать ИТ-продукт лучше.md",
-    "7 принципов тестирования.md"
+    "Приложение учёта возраста.md",
+    "Закон стагнации.md",
+    "Метрики тестирования.md",
+    "Встречи.md",
+    "Pairwise testing.md",
+    "Порядок использования устройств при тестировании.md"
   ]
 }
