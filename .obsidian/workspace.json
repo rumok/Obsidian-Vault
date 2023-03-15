@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0cbca3b9391311",
+        "id": "e550a2b3b6d4e7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "34751b468bb142f8",
+            "id": "be0d0fc53f341478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ревью.md",
+                "file": "Перцептрон.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d1f83f6f583c5d4",
+            "id": "1ef870f90fe3e81b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестинг.md",
+                "file": "Архитектуры нейросетей.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ed43bd3238f1d0e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "okr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ревью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ревью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ревью.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,17 +165,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "34751b468bb142f8",
+  "active": "4ed43bd3238f1d0e",
   "lastOpenFiles": [
-    "Тестинг.md",
-    "Ревью.md",
     "Как извлекать полезный опыт из ошибок.md",
-    "Приложение учёта возраста.md",
-    "Закон стагнации.md",
-    "Метрики тестирования.md",
-    "Встречи.md",
-    "Pairwise testing.md",
-    "Порядок использования устройств при тестировании.md",
-    "Эмуляторы.md"
+    "Критика.md",
+    "Конструктивная критика.md",
+    "Архитектуры нейросетей.md",
+    "Перцептрон.md",
+    "Цели.md",
+    "okr.md",
+    "Untitled.md",
+    "Почему не все ошибки надо исправлять, чтобы сделать ИТ-продукт лучше.md",
+    "7 принципов тестирования.md"
   ]
 }
