@@ -1,3 +1,5 @@
+[[BI]]
+
 https://datalens.yandex.ru/
 Курс на практикуме:
 https://practicum.yandex.ru/trainer/ycloud-datalens/lesson/252e5674-416d-41b6-890a-1e415924b92a/

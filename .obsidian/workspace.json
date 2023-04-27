@@ -4,117 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac9edb96acbf46c",
+        "id": "613437da564544b0",
         "type": "tabs",
         "children": [
           {
-            "id": "ada24a0bec607cfa",
+            "id": "bf3bd48a3ae44e9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70bfd07509640c7f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "d231036e5784530e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Регресс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d28ef4ec91ca817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестинг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68a391fef0b66a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datalens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cee1c03c15459b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Австралия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b44668ac72b8842a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Австралия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cfbda549156d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сайты вакансий (Global).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bcf2a36cb59acce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кипр.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кипр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кипр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,12 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Кипр.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,31 +140,36 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7bcf2a36cb59acce",
+  "active": "bf3bd48a3ae44e9b",
   "lastOpenFiles": [
-    "Сайты вакансий (Кипр).md",
-    "Кипр.md",
-    "Вакансии.md",
-    "Сайты вакансий (Global).md",
-    "Австралия.md",
-    "поинт тест.md",
-    "Datalens.md",
-    "Тестинг.md",
-    "Масштабирование бизнеса.md",
-    "Без названия.md",
-    "Smoke.md",
-    "Регресс vs Smoke.md",
-    "Screen Shot 2023-03-21 at 11.18.35.png",
-    "Регресс.md",
-    "Pasted image 20230321111347.png",
-    "GIT.md",
+    "Python.md",
+    "Комментарии Python.md",
     "Ревью.md",
-    "Как извлекать полезный опыт из ошибок.md",
+    "Приоритеты.md",
+    "Сайты вакансий (Австралия).md",
+    "Количество.md",
+    "API.md",
+    "BI.md",
+    "Datalens.md",
+    "Без названия.md",
+    "Регресс.md",
+    "Тестинг.md",
+    "Австралия.md",
+    "Сайты вакансий (Global).md",
     "Приложение учёта возраста.md",
-    "Закон стагнации.md",
-    "Метрики тестирования.md",
-    "Встречи.md",
-    "Pairwise testing.md",
-    "Порядок использования устройств при тестировании.md"
+    "The moon has orbited the earth 516 times since you were born..md",
+    "Анализ багов на проде.md",
+    "Excel.md",
+    "Экранирование символов Python.md",
+    "Арифметические операции  Python.md",
+    "Скриншот на python.md",
+    "Untitled 1.md",
+    "Pasted image 20230424183336.png",
+    "7 принципов тестирования.md",
+    "Вакансии.md",
+    "Сайты вакансий.md",
+    "Сайты вакансий (Кипр).md",
+    "Screen Shot 2023-03-21 at 11.18.35.png",
+    "Pasted image 20230321111347.png"
   ]
 }
