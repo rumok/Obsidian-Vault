@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "613437da564544b0",
+        "id": "e275be48a4ff1d91",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3bd48a3ae44e9b",
+            "id": "431460c12838d129",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Требования к кандидату.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -44,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Python",
+                "query": "метри",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +64,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8d4ae067d68f16f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -82,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Требования к кандидату.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Требования к кандидату.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,11 +135,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Требования к кандидату.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,38 +154,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf3bd48a3ae44e9b",
+  "active": "431460c12838d129",
   "lastOpenFiles": [
+    "Метрики тестирования.md",
+    "KPI.md",
+    "Вещи которые нужно сделать когда ты пришёл в новую компанию как QA лид.md",
+    "Требования к кандидату.md",
+    "виды тестирования ПО.md",
+    "Австралия.md",
+    "Untitled 1.canvas",
+    "GIT.md",
+    "telegram-cloud-photo-size-2-5265145862537985306-x.jpg",
+    "Вопросы о компании.md",
+    "2023-01-16.md",
+    "Количество.md",
     "Python.md",
+    "Канада.md",
+    "Виды виз в Австралии.md",
+    "Скриншот на python.md",
+    "Python lib.md",
+    "​pyAudioAnalysis.md",
     "Комментарии Python.md",
     "Ревью.md",
     "Приоритеты.md",
     "Сайты вакансий (Австралия).md",
-    "Количество.md",
     "API.md",
     "BI.md",
     "Datalens.md",
     "Без названия.md",
     "Регресс.md",
     "Тестинг.md",
-    "Австралия.md",
-    "Сайты вакансий (Global).md",
-    "Приложение учёта возраста.md",
-    "The moon has orbited the earth 516 times since you were born..md",
-    "Анализ багов на проде.md",
-    "Excel.md",
-    "Экранирование символов Python.md",
-    "Арифметические операции  Python.md",
-    "Скриншот на python.md",
-    "Untitled 1.md",
     "Pasted image 20230424183336.png",
-    "7 принципов тестирования.md",
-    "Вакансии.md",
-    "Сайты вакансий.md",
-    "Сайты вакансий (Кипр).md",
     "Screen Shot 2023-03-21 at 11.18.35.png",
     "Pasted image 20230321111347.png"
   ]
