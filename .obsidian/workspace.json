@@ -13,13 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Продбаги по известности.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d47a050edcad225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Продбаги по известности.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d270f98614fa7396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Причины возникновения прод багов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7153e765b77b38f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,6 +99,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "37691189302e85c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Причины возникновения прод багов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Причины возникновения прод багов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,12 +168,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Причины возникновения прод багов.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,26 +180,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "canvas:Create new canvas": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "ada24a0bec607cfa",
+  "active": "d7153e765b77b38f",
   "lastOpenFiles": [
+    "Продбаги по известности.md",
+    "Динамика времени нахождения тикетов в ready for test.md",
+    "Метрики тестирования.md",
     "Тестинг.md",
     "GIT.md",
     "Ревью.md",
     "Как извлекать полезный опыт из ошибок.md",
     "Приложение учёта возраста.md",
     "Закон стагнации.md",
-    "Метрики тестирования.md",
-    "Встречи.md",
-    "Pairwise testing.md",
-    "Порядок использования устройств при тестировании.md"
+    "Встречи.md"
   ]
 }
