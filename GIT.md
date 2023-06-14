@@ -1,5 +1,5 @@
 # Git
-
+![[telegram-cloud-photo-size-2-5265145862537985306-x.jpg]]
 `git status` - просмотреть изменения в репозитории
 
 Changes to be commited
