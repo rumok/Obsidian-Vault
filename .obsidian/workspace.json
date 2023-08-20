@@ -22,19 +22,59 @@
             }
           },
           {
-            "id": "1585b55823f3cae5",
+            "id": "990042f50c05afb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техники тест дизайна.md",
+                "file": "Метрики тестирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4f9add6e0c20c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdc25eb21b6a4fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Арифметические операции  Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a969f5db3314798b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bef3fcff2b314ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pairwise testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тест диз",
+                "query": "метри",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +128,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 500.5
   },
   "right": {
     "id": "752ffdf8388222ee",
@@ -109,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техники тест дизайна.md",
+                "file": "Арифметические операции  Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техники тест дизайна.md",
+                "file": "Арифметические операции  Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техники тест дизайна.md"
+                "file": "Арифметические операции  Python.md"
               }
             }
           }
@@ -170,39 +209,38 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1585b55823f3cae5",
+  "active": "cdc25eb21b6a4fae",
   "lastOpenFiles": [
-    "Техника состояний и переходов.md",
-    "Техники тест дизайна.md",
-    "Таблица принятия решений.md",
+    "Pasted image 20230424183336.png",
+    "Pasted image 20230321111347.png",
     "Pasted image 20230614133718.png",
+    "playrix.md",
+    "Количество дефектов,  пропущенных в продуктив.md",
     "Pairwise testing.md",
-    "Требования к кандидату.md",
-    "Метрики тестирования.md",
+    "okr.md",
     "KPI.md",
+    "GIT.md",
+    "getting old.md",
+    "Excel.md",
+    "Datalens.md",
+    "BI.md",
+    "Метрики тестирования.md",
+    "Процент успешно пройденных сценариев.md",
+    "Требования к кандидату.md",
+    "методы сбора требований.md",
+    "Вопросы о компании.md",
+    "Автоматизация Appium.md",
+    "BASH.md",
+    "Интенсив по нейронкам день 1.md",
+    "Чат GPT.md",
+    "Техники тест дизайна.md",
+    "Техника состояний и переходов.md",
+    "Таблица принятия решений.md",
     "Вещи которые нужно сделать когда ты пришёл в новую компанию как QA лид.md",
     "виды тестирования ПО.md",
     "Австралия.md",
     "Untitled 1.canvas",
-    "GIT.md",
     "telegram-cloud-photo-size-2-5265145862537985306-x.jpg",
-    "Вопросы о компании.md",
-    "2023-01-16.md",
-    "Количество.md",
-    "Python.md",
-    "Канада.md",
-    "Виды виз в Австралии.md",
-    "Скриншот на python.md",
-    "Python lib.md",
-    "​pyAudioAnalysis.md",
-    "Комментарии Python.md",
-    "Ревью.md",
-    "Приоритеты.md",
-    "Сайты вакансий (Австралия).md",
-    "API.md",
-    "BI.md",
-    "Pasted image 20230424183336.png",
-    "Screen Shot 2023-03-21 at 11.18.35.png",
-    "Pasted image 20230321111347.png"
+    "Screen Shot 2023-03-21 at 11.18.35.png"
   ]
 }
