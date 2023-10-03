@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e275be48a4ff1d91",
+        "id": "bef2b61e013df6b0",
         "type": "tabs",
         "children": [
           {
-            "id": "431460c12838d129",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Требования к кандидату.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "990042f50c05afb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики тестирования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f4f9add6e0c20c8",
+            "id": "efd0c7be45d75517",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -42,39 +16,19 @@
             }
           },
           {
-            "id": "cdc25eb21b6a4fae",
+            "id": "628764f6d8d95953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Арифметические операции  Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a969f5db3314798b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bef3fcff2b314ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pairwise testing.md",
+                "file": "Лекционные площадки Москвы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "метри",
+                "query": "сберм",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,11 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 200
   },
   "right": {
     "id": "752ffdf8388222ee",
@@ -148,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Арифметические операции  Python.md",
+                "file": "Лекционные площадки Москвы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Арифметические операции  Python.md",
+                "file": "Лекционные площадки Москвы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Арифметические операции  Python.md"
+                "file": "Лекционные площадки Москвы.md"
+              }
+            }
+          },
+          {
+            "id": "a43bec791dfcd233",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -209,36 +174,39 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "cdc25eb21b6a4fae",
+  "active": "628764f6d8d95953",
   "lastOpenFiles": [
+    "Лекционные площадки Москвы.md",
+    "Метрики тестирования.md",
+    "Эмулятор Симулятор.md",
+    "Сбермаркет.md",
+    "KPI.md",
+    "Продбаги по известности.md",
+    "озон.md",
+    "Метрики эффективности тестирования.md",
+    "Метрики проектного планирования.md",
+    "Метрики качества тестирования.md",
+    "Метрики качества продукта.md",
+    "Динамика времени нахождения тикетов в ready for test.md",
+    "okr.md",
+    "Техники тест дизайна.md",
+    "Эмуляторы.md",
+    "Симулятор.md",
+    "Порядок использования устройств при тестировании.md",
+    "Таблица принятия решений.md",
+    "Требования к кандидату.md",
+    "Число открытых жалоб пользователей.md",
+    "Арифметические операции  Python.md",
+    "Стратегия тестирования.md",
+    "Тест-план.md",
+    "Циклы в Python.md",
+    "STLC-цикл.md",
+    "Вакансия Комус Руководитель отдела тестирования аналитических платформ.md",
+    "Pasted image 20230921162117.png",
+    "Pasted image 20230920142727.png",
     "Pasted image 20230424183336.png",
     "Pasted image 20230321111347.png",
     "Pasted image 20230614133718.png",
-    "playrix.md",
-    "Количество дефектов,  пропущенных в продуктив.md",
-    "Pairwise testing.md",
-    "okr.md",
-    "KPI.md",
-    "GIT.md",
-    "getting old.md",
-    "Excel.md",
-    "Datalens.md",
-    "BI.md",
-    "Метрики тестирования.md",
-    "Процент успешно пройденных сценариев.md",
-    "Требования к кандидату.md",
-    "методы сбора требований.md",
-    "Вопросы о компании.md",
-    "Автоматизация Appium.md",
-    "BASH.md",
-    "Интенсив по нейронкам день 1.md",
-    "Чат GPT.md",
-    "Техники тест дизайна.md",
-    "Техника состояний и переходов.md",
-    "Таблица принятия решений.md",
-    "Вещи которые нужно сделать когда ты пришёл в новую компанию как QA лид.md",
-    "виды тестирования ПО.md",
-    "Австралия.md",
     "Untitled 1.canvas",
     "telegram-cloud-photo-size-2-5265145862537985306-x.jpg",
     "Screen Shot 2023-03-21 at 11.18.35.png"
