@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efd0c7be45d75517",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "628764f6d8d95953",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сберм",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +165,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "628764f6d8d95953",
+  "active": "1e02694c413030db",
   "lastOpenFiles": [
     "Лекционные площадки Москвы.md",
     "Метрики тестирования.md",
