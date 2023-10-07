@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекционные площадки Москвы.md",
+                "file": "Вопросы о компании.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекционные площадки Москвы.md",
+                "file": "Вопросы о компании.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекционные площадки Москвы.md",
+                "file": "Вопросы о компании.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекционные площадки Москвы.md"
+                "file": "Вопросы о компании.md"
               }
             }
           },
@@ -165,9 +165,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1e02694c413030db",
+  "active": "628764f6d8d95953",
   "lastOpenFiles": [
+    "Яндекс.md",
+    "Вопросы о компании.md",
     "Лекционные площадки Москвы.md",
+    "Автоматизация на Go.md",
+    "Автоматизация тестирования.md",
+    "telegram-cloud-photo-size-2-5235730516290949445-y.jpg",
+    "Support bot.md",
     "Метрики тестирования.md",
     "Эмулятор Симулятор.md",
     "Сбермаркет.md",
@@ -188,11 +194,6 @@
     "Требования к кандидату.md",
     "Число открытых жалоб пользователей.md",
     "Арифметические операции  Python.md",
-    "Стратегия тестирования.md",
-    "Тест-план.md",
-    "Циклы в Python.md",
-    "STLC-цикл.md",
-    "Вакансия Комус Руководитель отдела тестирования аналитических платформ.md",
     "Pasted image 20230921162117.png",
     "Pasted image 20230920142727.png",
     "Pasted image 20230424183336.png",
